@@ -1,0 +1,3 @@
+[submodule "octane"]
+	path = lib/octane
+	url = https://github.com/chromium/octane
